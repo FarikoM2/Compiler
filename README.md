@@ -1,6 +1,8 @@
 # Compiler
 Development of a compiler in all its phases using automatas.
+
 Phases:
+
 lexical analyzer
 parser
 semantic analyzer
